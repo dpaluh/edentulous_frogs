@@ -10,3 +10,13 @@ DatasetS2 - Compiled dietary data and references for 268 frog lineages.
 DatasetS3 - Measurement data (skull length, jaw length, SVL) for 423 frog species.
 
 BayesTraits.zip, R.zip, and RevBayes.zip contains scripts, data files, and output for all analyses and plots. 
+
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
