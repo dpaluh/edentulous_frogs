@@ -12,6 +12,11 @@ DatasetS3 - Measurement data (skull length, jaw length, SVL) for 423 frog specie
 BayesTraits.zip, R.zip, and RevBayes.zip contains scripts, data files, and output for all analyses and plots. 
 
 
+
+
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
