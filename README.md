@@ -1,8 +1,7 @@
 # edentulous_frogs
-This repository contains scripts and associated data files for our manuscript on the evolution of tooth loss in frogs. If you have any comments or questions, please email me at dpaluh(at)ufl.edu
+This repository contains scripts and associated data files for our peer-reviewed paper on the evolution of tooth loss in frogs. If you have any comments or questions, please email me at dpaluh(at)ufl.edu
 
-Rampant tooth loss across 200 million years of frog evolution
-biorxiv doi: https://doi.org/10.1101/2021.02.04.429809
+Citation: Paluh, D.J., K. Riddell, C.M. Early, M.M. Hantak, G.F.M. Jongsma, R.M. Keeffe, F. Magalhães Silva, S.V. Nielsen, M.C. Vallejo-Pareja, E.L. Stanley, and D.C. Blackburn. 2021. Rampant tooth loss across 200 million years of frog evolution. eLife 10: e66926.
 
 DatasetS1 - Spreadsheet of specimens examined (524 amphibian species) with associated dentition data and MorphoSource links to scan and mesh data.
 
